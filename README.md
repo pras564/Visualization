@@ -17,6 +17,8 @@ This bar graph shows the top 5 states of India which has highest sum of deceased
 * MAP 
  
  The map shows the confirmed cases of each state. 
+ 
+ ![Map](https://user-images.githubusercontent.com/81767091/154278414-a29d9770-ab16-4b0f-9996-8443984dea2c.png)
 
 
 https://public.tableau.com/app/profile/prashanthi3476/viz/Book1_16449428177350/Dashboard1?publish=yes
