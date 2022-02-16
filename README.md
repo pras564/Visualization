@@ -12,6 +12,8 @@ The graph shows trends of confirmed, deceased and recovered for each date and th
 
 This bar graph shows the top 5 states of India which has highest Sum of confirmed cases. 
 
+![Confirmed](https://user-images.githubusercontent.com/81767091/154279461-ef093858-a679-4c74-a51e-169fbb916cbd.png)
+
 * TOP 5 STATES WITH HIGHEST DECEASED NUMBERS OF COVID-19. 
 
 This bar graph shows the top 5 states of India which has highest sum of deceased number. 
