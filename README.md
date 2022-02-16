@@ -6,6 +6,8 @@ The dashboard mainly focuses on Confirmed cases, Deceased and Recovered Number o
 
 The graph shows trends of confirmed, deceased and recovered for each date and the data is filtered on states, which helps know the counts of each state. 
 
+![Confirmed, Deceased, Recovered](https://user-images.githubusercontent.com/81767091/154279299-817fea77-34c9-4872-807c-1fb5a43af7ef.png)
+
 * TOP 5 STATES WITH HIGHEST CONFIRMED CASES OF COVID-19. 
 
 This bar graph shows the top 5 states of India which has highest Sum of confirmed cases. 
