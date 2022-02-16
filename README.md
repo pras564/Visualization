@@ -18,6 +18,9 @@ This bar graph shows the top 5 states of India which has highest Sum of confirme
 
 This bar graph shows the top 5 states of India which has highest sum of deceased number. 
 
+![Deceased ](https://user-images.githubusercontent.com/81767091/154279813-19f878eb-7db2-46b4-b612-35d7500ac410.png)
+
+
 * MAP 
  
  The map shows the confirmed cases of each state. 
